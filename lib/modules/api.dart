@@ -19,7 +19,7 @@ Notes and words of warning:
 */
 
 // The base url for the api: https://api.infinitydev.org.uk http://<local ip>:3001 (http://192.168.0.3:3001)
-const String baseUrl = "https://api.infinitydev.org.uk";
+const String baseUrl = "<YOUR_WRAPPER_API_URL>";
 const String API_KEY = "<YOUR_WRAPPER_API_KEY>";
 
 // Max Number of services returned from a departure board call with no details
