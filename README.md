@@ -9,3 +9,8 @@ For more information about the features, see the [projects section on my website
 ## Licensing
 
 As the API wrapper is designed to be modular with different APIs, the app itself will not have the specific attribution requirements of an API you may choose. You will need to modify the app to abide by licensing agreements of APIs that you choose to use. 
+
+
+## Current Known Issues
+
+- Train splitting is unintuitive UI in the direction of two trains joining
