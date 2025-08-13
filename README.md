@@ -8,6 +8,10 @@ This project is paired with another [repository](https://github.com/infinitelyja
 
 For more information about the features, see the [projects section on my website](https://infinitydev.org.uk/)
 
+## Forks
+
+Note: I am currently working on major improves in a private fork that will be PR-ed at a later date.
+
 ## Licensing
 
 As the API wrapper is designed to be modular with different APIs, the app itself will not have the specific attribution requirements of an API you may choose. You will need to modify the app to abide by licensing agreements of APIs that you choose to use. 
