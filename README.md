@@ -10,7 +10,7 @@ For more information about the features, see the [projects section on my website
 
 ## Forks
 
-Note: I am currently working on major improves in a private fork that will be PR-ed at a later date.
+Note: I am currently working on major improvements in a private fork that will be PR-ed at a later date, to both this and the API wrapper.
 
 ## Licensing
 
