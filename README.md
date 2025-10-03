@@ -1,6 +1,8 @@
 # uklivetrains
 
-A basic android app in flutter for viewing the live trains on a station on the UK rail network.
+A basic android app in flutter for viewing the live trains on a station on the UK rail network. **Note: The public version of this app is many hundreds of commits behind the private version. This repository may be updated at a later point in time**
+
+A very old screenshot:
 
 ![](https://infinitydev.org.uk/demos/uklivetrainsapp1.png)
 
