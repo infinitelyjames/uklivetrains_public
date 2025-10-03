@@ -2,6 +2,14 @@
 
 A basic android app in flutter for viewing the live trains on a station on the UK rail network. **Note: The public version of this app is many hundreds of commits behind the private version. This repository may be updated at a later point in time**
 
+New features that are _not_ included in this repository but have been coded and will be PRed in at a later date:
+- Redesigned UI, all UI elements are now cohesive
+- Trains can be fetched +- 24 hours vs +- 2 hours
+- The home page is completely customisable, where you can track services one-off or daily, add departure boards, view tube status, list disruptions and more
+- A photo of the train is matched to the live service, with facilities labelled.
+- ... and many more
+This is just a few of the features, the new version feels completely different.
+
 A very old screenshot:
 
 ![](https://infinitydev.org.uk/demos/uklivetrainsapp1.png)
